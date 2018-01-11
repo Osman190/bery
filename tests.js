@@ -3,6 +3,4 @@ const checkUsername = (user) => {
 }
 
 console.log("username is just letters: ",  checkUsername("Tommy"))
-fdabn
-dgasf
-fdlkavms
+
